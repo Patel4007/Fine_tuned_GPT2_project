@@ -30,9 +30,8 @@ Navigate to the repository and open the notebook
 
 ```bash
 cd Fine_tuned_GPT2_project
-jupyter notebook
-
-
+jupyter notebook GPT2 fine tuned.ipynb
+```
 
 ## Dataset
 
@@ -41,5 +40,3 @@ The dataset used for this project consists of news articles. The dataset is load
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-   
